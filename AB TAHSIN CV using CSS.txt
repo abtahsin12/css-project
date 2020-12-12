@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+         <title>  MY CV </title>
+<style>
+*
+{
+margin:0;
+}
+.contant
+{
+width:1000px;
+background-color:#d0e1e1;
+margin:0 auto;
+padding:20px;
+}
+.image-Controll
+{
+height:120px;
+width:100px;
+border:3px solid white;
+border-radius:50%;
+float:left;
+}
+.Student-Information
+{
+float:left;
+margin:30px;
+}
+h1,h2,h3,h4,h5,h6
+{
+color:#b3003b;
+}
+.contact
+{
+float:right;
+margin:30px;
+}
+.contact p a
+{
+text-decoration:none;
+color:gray;
+}
+.contact p a:hover
+{
+color:tomato;
+}
+.div-clear
+{
+clear:both;
+}
+hr
+{
+margin:20px auto;
+border:3px black solid;
+border-bottom:none;
+}
+.leftldiv
+{
+width:30%
+float:left;
+}
+.rightldiv
+{
+width:70%
+float:left;
+}
+.left-div
+{
+width:30%;
+float:left;
+
+}
+.right-div
+{
+width:70%;
+float:left;
+
+}
+.common-hr
+{
+border:1px black solid;
+border-bottom:none;
+margin:20px auto;
+}
+.tem-leftdiv
+{
+float:left;
+width:30%;
+}
+.tem-rightdiv
+{
+float:right;
+width:30%;
+margin-right:100px;
+}
+.foot
+{
+background-color:black;
+text-align:center;
+height:50px;
+padding:20px;
+
+}
+.foot  a
+{
+color:white;
+text-decoration:none;
+margin:20px;
+
+}
+.foot  p
+{
+color:white;
+}
+</style>
+</head>
+<body>
+<div class="contant">
+<header>
+<img class="image-Controll" src="C:\New folder/tahsss.jpg">
+<div class="Student-Information">
+<h1>Name:AB Tahsin</h1>
+<h3> Studing at CSE </h3>
+</div>
+<div class="contact">
+<p><a href="http:/www.youtube.com" target="blank">Youtube </a></p>
+<p><a href="http:/www.facebook.com" target="blank">Facebook </a></p>
+<p><a href="http:/www.google.com" target="blank">Google </a></p>
+<p><a href="tel:01872227169">Mobile : 01872227169 </a></p>
+</div>
+</header>
+<div class="div-clear">
+</div>
+<hr>
+<main>
+
+<section>
+
+<div class="left-div">
+<h3>Personal Information : </h3>
+</div>
+
+<div class="right-div">
+<p>Gender : Male </p>
+<p>Address: 13/1 Free School Street Kathal-Bagan Dhaka 1205. </p>
+<p>Nationality: Bangladesh </p>
+</div>
+</section>
+
+<div class="div-clear">
+</div>
+<hr class="common-hr">
+
+
+<section>
+
+<div class="left-div">
+<h3>Educational-qualification : </h3>
+</div>
+
+<div class="right-div">
+
+
+<div class="tem-leftdiv">
+<h2> Dhakil Result </h2>
+<p> GPA:4.14</p>
+<p> In 2017 from Madrasha Board </p>
+</div>
+
+
+<div class="tem-rightdiv">
+<h2> HSC Result </h2>
+<p> GPA:3.00</p>
+<p> In 2019 from Dhaka Board </p>
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+</section>
+
+<div class="div-clear">
+</div>
+<hr class="common-hr">
+
+
+
+
+<section>
+
+<div class="left-div">
+<h3>Extra-Qualification : </h3>
+</div>
+
+<div class="right-div">
+<p>Good at Math</p>
+<p>Excelent Hand-Writting </p>
+</div>
+</section>
+
+
+
+
+
+
+</main>
+
+<div class="div-clear">
+</div>
+<hr class="common-hr">
+
+
+
+
+<footer class="foot">
+
+<a href="http:/www.youtube.com" target="blank">Youtube </a>
+<a href="http:/www.facebook.com" target="blank">Facebook </a>
+<a href="http:/www.google.com" target="blank">Google </a> 
+<br/><br/>
+<p>copyright &copy; AB Tahsin </p>
+
+
+</footer>
+</div>
+</body>
+</html>
